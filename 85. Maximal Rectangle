@@ -1,0 +1,31 @@
+class Solution:
+    def maximalRectangle(self, matrix: list[list[str]]) -> int:
+        if not matrix:
+            return 0
+
+        cols = len(matrix[0])
+        heights = [0] * cols
+        max_area = 0
+
+        for row in matrix:
+            # Update histogram heights
+            for j in range(cols):
+                if row[j] == '1':
+                    heights[j] += 1
+                else:
+                    heights[j] = 0
+
+            # Largest Rectangle in Histogram
+            stack = [-1]
+
+            for i in range(cols + 1):
+                curr_height = 0 if i == cols else heights[i]
+
+                while stack[-1] != -1 and heights[stack[-1]] > curr_height:
+                    h = heights[stack.pop()]
+                    w = i - stack[-1] - 1
+                    max_area = max(max_area, h * w)
+
+                stack.append(i)
+
+        return max_area
