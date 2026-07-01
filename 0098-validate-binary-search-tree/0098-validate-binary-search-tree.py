@@ -1,0 +1,13 @@
+class Solution:
+    def isValidBST(self, root):
+        def validate(node, minVal, maxVal):
+            if not node:
+                return True
+
+            if node.val <= minVal or node.val >= maxVal:
+                return False
+
+            return (validate(node.left, minVal, node.val) and
+                    validate(node.right, node.val, maxVal))
+
+        return validate(root, float('-inf'), float('inf'))        
