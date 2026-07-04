@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0049-group-anagrams) |
 ## Sorting
 |  |
@@ -41,5 +42,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0053-maximum-subarray) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
