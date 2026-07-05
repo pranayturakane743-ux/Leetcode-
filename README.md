@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0049-group-anagrams) |
+| [0091-decode-ways](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0091-decode-ways) |
 ## Sorting
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0053-maximum-subarray) |
+| [0091-decode-ways](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0091-decode-ways) |
 ## Backtracking
 |  |
 | ------- |
