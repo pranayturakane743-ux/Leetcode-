@@ -68,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0149-max-points-on-a-line) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
