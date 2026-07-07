@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0098-validate-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -12,10 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0098-validate-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0098-validate-binary-search-tree) |
 ## Array
 |  |
@@ -50,11 +53,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0095-unique-binary-search-trees-ii) |
 ## Backtracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0022-generate-parentheses) |
 | [0093-restore-ip-addresses](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0093-restore-ip-addresses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0095-unique-binary-search-trees-ii) |
 ## Math
 |  |
 | ------- |
