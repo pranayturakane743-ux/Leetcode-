@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0093-restore-ip-addresses) |
+| [0168-excel-sheet-column-title](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0168-excel-sheet-column-title) |
 ## Sorting
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0149-max-points-on-a-line) |
+| [0168-excel-sheet-column-title](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0168-excel-sheet-column-title) |
 ## Geometry
 |  |
 | ------- |
