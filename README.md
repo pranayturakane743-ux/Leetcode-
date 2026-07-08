@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0149-max-points-on-a-line](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0149-max-points-on-a-line) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0198-house-robber](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0198-house-robber) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0095-unique-binary-search-trees-ii) |
+| [0198-house-robber](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0198-house-robber) |
 ## Backtracking
 |  |
 | ------- |
