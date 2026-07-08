@@ -80,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0024-swap-nodes-in-pairs) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
