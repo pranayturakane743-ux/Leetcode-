@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0127-word-ladder) |
 | [0149-max-points-on-a-line](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0149-max-points-on-a-line) |
+| [0205-isomorphic-strings](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0205-isomorphic-strings) |
 ## String
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0097-interleaving-string) |
 | [0127-word-ladder](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0127-word-ladder) |
 | [0168-excel-sheet-column-title](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0168-excel-sheet-column-title) |
+| [0205-isomorphic-strings](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0205-isomorphic-strings) |
 ## Sorting
 |  |
 | ------- |
