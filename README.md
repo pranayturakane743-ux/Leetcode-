@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0148-sort-list) |
+| [0295-find-median-from-data-stream](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0295-find-median-from-data-stream) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0148-sort-list) |
+| [0295-find-median-from-data-stream](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0295-find-median-from-data-stream) |
 ## Merge Sort
 |  |
 | ------- |
@@ -109,4 +111,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0127-word-ladder) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0295-find-median-from-data-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
