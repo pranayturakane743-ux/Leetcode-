@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0099-recover-binary-search-tree) |
 ## Depth-First Search
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0099-recover-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0099-recover-binary-search-tree) |
 ## Array
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0097-interleaving-string) |
 | [0198-house-robber](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0198-house-robber) |
 ## Backtracking
@@ -81,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0149-max-points-on-a-line) |
 | [0168-excel-sheet-column-title](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0168-excel-sheet-column-title) |
 ## Geometry
