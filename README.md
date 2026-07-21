@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0099-recover-binary-search-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0099-recover-binary-search-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0099-recover-binary-search-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0199-binary-tree-right-side-view) |
 ## Array
 |  |
 | ------- |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0127-word-ladder) |
+| [0199-binary-tree-right-side-view](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0199-binary-tree-right-side-view) |
 ## Design
 |  |
 | ------- |
