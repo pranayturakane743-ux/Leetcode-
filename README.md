@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0127-word-ladder) |
 | [0168-excel-sheet-column-title](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0205-isomorphic-strings) |
+| [0227-basic-calculator-ii](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0227-basic-calculator-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0149-max-points-on-a-line) |
 | [0168-excel-sheet-column-title](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0168-excel-sheet-column-title) |
+| [0227-basic-calculator-ii](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0227-basic-calculator-ii) |
 ## Geometry
 |  |
 | ------- |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0295-find-median-from-data-stream) |
+## Stack
+|  |
+| ------- |
+| [0227-basic-calculator-ii](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0227-basic-calculator-ii) |
 <!---LeetCode Topics End-->
