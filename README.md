@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0177-nth-highest-salary](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0177-nth-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0196-delete-duplicate-emails) |
 ## Two Pointers
 |  |
