@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0608-tree-node](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0608-tree-node) |
 | [0626-exchange-seats](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0626-exchange-seats) |
 | [1045-customers-who-bought-all-products](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/1045-customers-who-bought-all-products) |
+| [1068-product-sales-analysis-i](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/1068-product-sales-analysis-i) |
 ## Two Pointers
 |  |
 | ------- |
