@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0550-game-play-analysis-iv](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0585-investments-in-2016](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0585-investments-in-2016) |
+| [0601-human-traffic-of-stadium](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0601-human-traffic-of-stadium) |
 ## Two Pointers
 |  |
 | ------- |
