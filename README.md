@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0262-trips-and-users](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0262-trips-and-users) |
 | [0550-game-play-analysis-iv](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0585-investments-in-2016](https://github.com/pranayturakane743-ux/Leetcode-/tree/master/0585-investments-in-2016) |
 ## Two Pointers
 |  |
 | ------- |
